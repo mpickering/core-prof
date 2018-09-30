@@ -1,2 +1,5 @@
 packages: core-prof/*.cabal
         , test/*.cabal
+
+package test
+  profiling: True

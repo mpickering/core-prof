@@ -4,4 +4,4 @@ import A
 
 printMe = ()
 
-main = print ()
+main = print $ fib 40
